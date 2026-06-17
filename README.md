@@ -1,4 +1,4 @@
-# language_detection_model
+# Language_detection_model
 Machine learning model for detecting language from input text
 
 ## Algorithm Used
